@@ -1,5 +1,5 @@
 # Jan22_DA_From_Scratch
-Projet de Data Analyse allant de l'exploration avec le notebook Jupyter jusqu'au développement d'un dashboard Streamlit permettant de présenter les résultats.
+Projet de Data Analyse réalisé pendant la Masterclass ***Projet DA From Scratch*** pour la promotion **Janvier 2022 Bootcamp DA**. Le projet va de l'exploration avec le notebook Jupyter jusqu'au développement d'un dashboard Streamlit permettant de présenter les résultats.
 
 Pour installer [**Streamlit**](https://streamlit.io/), lancer dans le terminal la commande :
 
